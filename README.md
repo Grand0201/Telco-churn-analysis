@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis
+# Telecom Customer Churn Analysis and ML Churn Prediction
 
 ## Project Overview
 This project analyzes customer churn behavior in a telecom company using SQL, Python, and Power BI.
