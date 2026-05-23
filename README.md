@@ -9,7 +9,7 @@ The analysis identifies key churn drivers, customer risk segments, and business 
 
 ## Tools Used
 - SQL (SQLite)
-- Python (Pandas)
+- Python (Pandas, NumPy, Sklearn)
 - Power BI
 
 ---
